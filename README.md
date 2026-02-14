@@ -1,7 +1,7 @@
 # Agricultural Prediction  
 ### A Machine Learning-Based Advisory Platform for Farmers  
 
-**Horizon Academic Research Program | May 2024 – July 2024**  
+**Horizon Academic Research Program | March 2023 – July 2023**  
 Mentored by Dr. Maria Konte, Research Professor, Georgia Institute of Technology  
 
 ---
